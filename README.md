@@ -50,6 +50,10 @@ Navigating the App
     • Checkout Tab: View and manage items added for checkout.
     • Order Success Screen: Confirmation screen after placing an order. Use the "Return to Shop" button to clear the checkout and navigate back to the product list.
 
+APK Download
+You can download the APK for the Simple Shopping App from the link below:
+https://appetize.io/app/jp7yl5wuxiijkaqw4qkbxb2flq
+
 Contributing
 Contributions are welcome! To contribute:
     1. Fork the repository.
@@ -58,6 +62,9 @@ Contributions are welcome! To contribute:
     4. Commit your changes (git commit -m 'Add new feature').
     5. Push to the branch (git push origin feature-branch).
     6. Create a new Pull Request.
+
+License
+This project is licensed under the MIT License.
 
 Contact
 For any inquiries or feedback, feel free to contact:
